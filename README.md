@@ -15,3 +15,7 @@ This repository stores assignments, projects, and documentation for the CI001 co
 
 ## GitHub Pages Site
 Visit my personal website: [https://weiche3328.github.io/](https://weiche3328.github.io/)
+
+## File Organization
+- `README.md`: Course information, personal introduction, repository purpose, and the personal website link.
+- Future assignment files will be organized into separate folders, one folder for each assignment.
