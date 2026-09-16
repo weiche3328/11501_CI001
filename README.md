@@ -14,4 +14,8 @@
 This repository stores assignments, projects, and documentation for the CI001 course.
 
 ## GitHub Pages Site
-Visit my personal website: [https://<username>.github.io/](https://<username>.github.io/)
+Visit my personal website: [https://weiche3328.github.io/](https://weiche3328.github.io/)
+
+## File Organization
+- README.md: Course information and personal introduction.
+- Assignment files will be organized into separate folders by assignment.
